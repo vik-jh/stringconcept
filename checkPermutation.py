@@ -30,11 +30,6 @@ def isPurmutation(s, t):
                 return False
             return True
 
-            
-
-
-
-
 
 str1 = input()
 str2 = input()
